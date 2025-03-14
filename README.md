@@ -16,11 +16,9 @@ This project analyzes tech layoffs using SQL. The dataset contains information a
 ## 📊 Key Insights
 - **Google had the highest layoffs (12,000 employees).**
 - **The highest percentage of layoffs (100%) came from 17 companies that shut down.**
-- **The industry with the most layoffs was "Others" (28,767 employees).**
+- **The industry with the most layoffs was "consumers" (28,767 employees).**
 - **The U.S. had the highest layoffs (94,955 employees).**
 
-## 🔗 Dataset Source
-[Add link if available]
 
 ## 🛠️ Tools Used
 - MySQL Workbench  
